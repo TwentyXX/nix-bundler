@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2024"
 description = "A tool to bundle multiple Nix files into a single file"
 authors = ["Nix Bundler Developer"]
+license = "MIT"
 
 [dependencies]
 clap = { version = "4.4", features = ["derive"] }
